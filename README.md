@@ -22,3 +22,10 @@ This system is the result of a project for the conclusion of the Structured Algo
 * Task Status
 * Creation date
 * Completion date
+
+## Used Technologies
+
+<table>
+    <tr>
+        <td>HTML5</td>
+  </tr>
