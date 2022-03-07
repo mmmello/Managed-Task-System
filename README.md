@@ -27,6 +27,6 @@ This system is the result of a project for the conclusion of the Structured Algo
 
 <table>
     <tr>
-        <td> C /td>
+        <td> C </td>
   </tr>
 </table>
