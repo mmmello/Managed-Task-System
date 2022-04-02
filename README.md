@@ -39,13 +39,13 @@ Este programa é resultado de um trabalho da minha faculdade para a conclusão d
 
 ## ⚒️ Funcionalidades
 
-* Registrar uma tarefa
-* Mostrar tarefas
-* Setar tarefa como concluída (Se a tarefa já estiver setada como concluída, o sistema deverá permitir apenas deletar esta tarefa)
-* Excluir tarefa
-* Editar título
-* Editar a descrição
-* Editar a data de conclusão
+* Registrar uma tarefa.
+* Mostrar tarefas.
+* Setar tarefa como concluída (Se a tarefa já estiver setada como concluída, o sistema deverá permitir apenas deletar esta tarefa).
+* Excluir tarefa.
+* Editar título.
+* Editar a descrição.
+* Editar a data de conclusão.
 * Ao iniciar, o sistema deve ler um arquivo de persistência a fim de alocar na memória as tarefas preexistentes.
 * Ao sair, o sistema deve guardar no mesmo arquivo de texto os dados gerados e/ou modificados durante a execução do programa.
 
