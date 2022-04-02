@@ -28,14 +28,14 @@
 
 Este programa é resultado de um trabalho da minha faculdade para a conclusão da disciplina de Algoritmos Estruturados, e o seu objetivo é gerir, de forma básica, as nossas tarefas do dia a dia.
 
-> ### Uma tarefa deve ter:
-> 
-> * Identificador
-> * Título
-> * Descrição
-> * Status da tarefa
-> * Data de criação
-> * Data de conclusão
+### Uma tarefa deve ter:
+ 
+* Identificador
+* Título
+* Descrição
+* Status da tarefa
+* Data de criação
+* Data de conclusão
 
 ## ⚒️ Funcionalidades
 
